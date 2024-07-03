@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kamalinisahoo123/DigiSignature/static/css/main.2f6192e6.chunk.css",
+    "main.js": "/kamalinisahoo123/DigiSignature/static/js/main.96bbe9ae.chunk.js",
+    "main.js.map": "/kamalinisahoo123/DigiSignature/static/js/main.96bbe9ae.chunk.js.map",
+    "runtime-main.js": "/kamalinisahoo123/DigiSignature/static/js/runtime-main.19bfb3dc.js",
+    "runtime-main.js.map": "/kamalinisahoo123/DigiSignature/static/js/runtime-main.19bfb3dc.js.map",
+    "static/css/2.945edbe1.chunk.css": "/kamalinisahoo123/DigiSignature/static/css/2.945edbe1.chunk.css",
+    "static/js/2.6bf061e2.chunk.js": "/kamalinisahoo123/DigiSignature/static/js/2.6bf061e2.chunk.js",
+    "static/js/2.6bf061e2.chunk.js.map": "/kamalinisahoo123/DigiSignature/static/js/2.6bf061e2.chunk.js.map",
+    "static/js/3.38c3b33a.chunk.js": "/kamalinisahoo123/DigiSignature/static/js/3.38c3b33a.chunk.js",
+    "static/js/3.38c3b33a.chunk.js.map": "/kamalinisahoo123/DigiSignature/static/js/3.38c3b33a.chunk.js.map",
+    "index.html": "/kamalinisahoo123/DigiSignature/index.html",
+    "static/css/2.945edbe1.chunk.css.map": "/kamalinisahoo123/DigiSignature/static/css/2.945edbe1.chunk.css.map",
+    "static/css/main.2f6192e6.chunk.css.map": "/kamalinisahoo123/DigiSignature/static/css/main.2f6192e6.chunk.css.map",
+    "static/js/2.6bf061e2.chunk.js.LICENSE.txt": "/kamalinisahoo123/DigiSignature/static/js/2.6bf061e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19bfb3dc.js",
+    "static/css/2.945edbe1.chunk.css",
+    "static/js/2.6bf061e2.chunk.js",
+    "static/css/main.2f6192e6.chunk.css",
+    "static/js/main.96bbe9ae.chunk.js"
+  ]
+}
